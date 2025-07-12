@@ -1,6 +1,6 @@
 import os
 
-folder_path = "C:/Users/MNNNW/OneDrive/Desktop/main_folder"
+folder_path = "PUT_YOUR_FOLDER_PATH_HERE"
 count = 1
 
 try:
