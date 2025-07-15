@@ -15,3 +15,4 @@ Telegram bot made with `python-telegram-bot` library. Auto replies to messages.
 ## 🚨 Note
 
 ❗ Replace your real token with `"PASTE_YOUR_BOT_TOKEN_HERE"` before uploading.
+❗ This bot template is prepared for freelance practice. It is not a complete chatbot but can be easily modified by changing the if-elif message blocks in the reply() function.
